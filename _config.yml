@@ -1,16 +1,27 @@
+# Setup
 title: Gosha Sawicka
 description: Web Developer, Software Engineer, Human Golden Retriever
-google_analytics: 
-show_downloads: false
-theme: jekyll-theme-architect
+name:         Project or Site name (Architect Theme)
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
 
-footer-links:
- github: patyk
- linkedin: goshasawicka
- twitter: goshagalazka
-
+# Gems
 gems:
-  - jekyll-mentions
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+google_analytics:
+show_downloads: false
+
+#footer-links:
+# github: patyk
+# linkedin: goshasawicka
+# twitter: goshagalazka
+
+#gems:
+#  - jekyll-mentions
 
 exclude:
   - Gemfile
@@ -18,3 +29,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - jekyll-architect-theme-master
