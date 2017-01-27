@@ -1,7 +1,7 @@
-title: blog.sawicka.io
-description: 
+title: Welcome to blog.sawicka.io
+description: Thoughts on life and code  
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
 gems:
