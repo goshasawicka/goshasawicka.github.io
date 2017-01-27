@@ -1,4 +1,4 @@
-### Welcome to GitHub Pages.
+## Welcome to GitHub Pages.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque leo elit, posuere ultricies leo non, congue fermentum turpis. Curabitur ultrices interdum placerat. Vivamus et convallis lorem. Vivamus tristique molestie ex, in hendrerit eros varius sed. Praesent placerat ullamcorper ornare.
 
 ### Designer Templates
