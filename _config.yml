@@ -4,5 +4,17 @@ google_analytics:
 show_downloads: false
 theme: jekyll-theme-architect
 
+footer-links:
+ github: patyk
+ linkedin: goshasawicka
+ twitter: goshagalazka
+
 gems:
   - jekyll-mentions
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
