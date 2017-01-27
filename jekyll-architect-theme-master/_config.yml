@@ -23,9 +23,10 @@ show_downloads: false
 #gems:
 #  - jekyll-mentions
 
-#exclude:
-#  - Gemfile
-#  - Gemfile.lock
-#  - LICENSE
-#  - README.md
-#  - CNAME
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - jekyll-architect-theme-master
