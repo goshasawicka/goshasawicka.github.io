@@ -4,6 +4,7 @@ description: Web Developer, Software Engineer, Human Golden Retriever
 name:         Project or Site name (Architect Theme)
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
+future: true
 
 # Gems
 gems:
