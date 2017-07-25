@@ -1,4 +1,5 @@
 _site
+.sbin
 .bundle
 .sass-cache
-Gemfile.lock
+.jekyll-metadata
