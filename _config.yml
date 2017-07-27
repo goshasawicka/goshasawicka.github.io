@@ -6,8 +6,9 @@ description: >
   Google search results) and in your feed.xml site description.
 baseurl: ""
 url: "blog.sawicka.io"
-twitter_username: goshagalazka
-github_username:  patyk
+twitter_username: goshasawicka
+github_username:  goshasawicka
+linkedin_username:  goshasawicka
 
 markdown: kramdown
 theme: minima
